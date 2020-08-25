@@ -3,7 +3,7 @@
     "author": "Leopotam",
     "displayName": "LeoECS Unity Integration",
     "description": "UnityEditor integration for LeoECS Entity Component System framework.",
-    "unity": "2019.1",
+    "unity": "2019.4",
     "version": "2020.3.22",
     "keywords": [
         "leoecs",
